@@ -1,0 +1,2 @@
+API server listening at: [::]:40000
+2025-06-23T16:33:15+06:00 warning layer=rpc Listening for remote connections (connections are not authenticated nor encrypted)
